@@ -1,2 +1,2 @@
 # bootstrap-Blog
-A clean bootstrap Blog using the startbootstrap template.
+A personal blog made with StartBootstrap's clean blog theme.
